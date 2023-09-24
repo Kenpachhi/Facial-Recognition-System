@@ -1,2 +1,7 @@
-# Facial-Recognition-System
-This project is built using python and can be used for attendence and surveillance
+---
+
+This is a Basic Facial-Recognition Program.
+
+It uses the face-recogniton module for its facial recognition purposes.
+
+___
