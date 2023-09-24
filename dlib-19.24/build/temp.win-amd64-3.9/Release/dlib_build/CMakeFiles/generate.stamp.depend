@@ -1,0 +1,34 @@
+# CMake generation dependency list for this directory.
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/CMakeFiles/CheckTypeSize/SIZE_OF_VOID_PTR.c
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/CMakeLists.txt
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/check_if_avx_instructions_executable_on_host.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/check_if_neon_available.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/check_if_sse4_instructions_executable_on_host.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/find_blas.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/find_libjpeg.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/find_libpng.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/find_libwebp.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/release_build_by_default
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/set_compiler_specific_options.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/cmake_utils/use_cpp_11.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakePushCheckState.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckFunctionExists.c
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckFunctionExists.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckIncludeFile.c.in
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckLibraryExists.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckStructHasMember.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckTypeSize.c.in
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckTypeSize.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindBLAS.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindCUDA.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindCUDA/select_compute_arch.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindGIF.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindPackageMessage.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindThreads.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/GNUInstallDirs.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake

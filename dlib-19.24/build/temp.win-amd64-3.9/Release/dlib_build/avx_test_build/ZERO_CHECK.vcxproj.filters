@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Archmage\Sharingan\source code\dlib-19.24\build\temp.win-amd64-3.9\Release\dlib_build\avx_test_build\CMakeFiles\b5218a01cc0d9755eb82892d931040c5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4CC9FC82-7771-36D6-AAB2-2D297D5959C1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

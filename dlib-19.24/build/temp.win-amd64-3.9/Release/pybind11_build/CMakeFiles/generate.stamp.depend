@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/external/pybind11/CMakeLists.txt
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/external/pybind11/tools/FindPythonLibsNew.cmake
+D:/Archmage/Sharingan/source code/dlib-19.24/dlib/external/pybind11/tools/pybind11Tools.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CMakeParseArguments.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindPackageMessage.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/FindPythonInterp.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/GNUInstallDirs.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Internal/CheckCompilerFlag.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Internal/CheckFlagCommonConfig.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/Internal/CheckSourceCompiles.cmake
+D:/Archmage/Sharingan/venv/Lib/site-packages/cmake/data/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake

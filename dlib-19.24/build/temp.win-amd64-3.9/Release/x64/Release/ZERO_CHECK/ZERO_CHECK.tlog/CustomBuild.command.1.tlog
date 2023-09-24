@@ -1,0 +1,10 @@
+^D:\ARCHMAGE\SHARINGAN\SOURCE CODE\DLIB-19.24\BUILD\TEMP.WIN-AMD64-3.9\RELEASE\CMAKEFILES\A74DFE49A39F72315FA52E9BD8BEFE70\GENERATE.STAMP.RULE
+setlocal
+D:\Archmage\Sharingan\venv\Lib\site-packages\cmake\data\bin\cmake.exe "-SD:/Archmage/Sharingan/source code/dlib-19.24/tools/python" "-BD:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/dlib_python_bindings.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

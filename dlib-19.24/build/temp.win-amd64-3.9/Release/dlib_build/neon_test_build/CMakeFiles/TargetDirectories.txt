@@ -1,0 +1,3 @@
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/dlib_build/neon_test_build/CMakeFiles/neon_test.dir
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/dlib_build/neon_test_build/CMakeFiles/ALL_BUILD.dir
+D:/Archmage/Sharingan/source code/dlib-19.24/build/temp.win-amd64-3.9/Release/dlib_build/neon_test_build/CMakeFiles/ZERO_CHECK.dir
